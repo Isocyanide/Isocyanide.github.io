@@ -11,14 +11,23 @@
     
     
     <item>
+      <title>A Theorem in Number Theory</title>
+      <link>https://Isocyanide.github.io/number_theory/</link>
+      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://Isocyanide.github.io/number_theory/</guid>
+      <description>For positive integers \(a,b\) where \(gcd(a,b) = 1\), the equation \(ax + by = n\) always has a solution in positive \(x,y\) for all \(n \geq ab\) \
+Proof
+Since \(gcd(a,b) = 1\), by the theory of linear Diophantine equations, we know that there always exists solutions (infinitely many of them) for \(ax + by = n\). However we are only interested in the ones where both \(x\) and \(y\) are positive.</description>
+    </item>
+    
+    <item>
       <title>About</title>
       <link>https://Isocyanide.github.io/about/</link>
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
       <guid>https://Isocyanide.github.io/about/</guid>
-      <description>Hugo is the world’s fastest framework for building websites. It is written in Go.
-It makes use of a variety of open source projects including:
- https://github.com/russross/blackfriday https://github.com/alecthomas/chroma https://github.com/muesli/smartcrop https://github.com/spf13/cobra https://github.com/spf13/viper  Learn more and contribute on GitHub.</description>
+      <description>Student from Vizag, India who is very interested in Mathematics. On this blog, I will share elegant math problems and proofs. I also make telegram bots. You can check them out here :  csgo-bot maki-management-bot  Site made using Hugo</description>
     </item>
     
   </channel>
