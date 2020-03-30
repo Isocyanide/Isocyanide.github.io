@@ -5,10 +5,21 @@
     <link>https://Isocyanide.github.io/</link>
     <description>Recent content on Udit Narayan</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 29 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://Isocyanide.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The Power of Pigeonhole Principle - 1</title>
+      <link>https://Isocyanide.github.io/php2/</link>
+      <pubDate>Mon, 30 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://Isocyanide.github.io/php2/</guid>
+      <description>In this post, I&amp;rsquo;ll discuss a couple examples where Pigeonhole principle is employed. In case you don&amp;rsquo;t know what the Pigeonhole principle is, you can read my post on it. Here is the link.
+The Friendship Theorem Among six people, there are always three who know each other or three who are complete strangers.
+How can one establish such a statement using mathematics? It almost sounds preposterous! Here we use another concept well known to us but appears to be unrelated - Geometry.</description>
+    </item>
     
     <item>
       <title>The Pigeonhole Principle</title>
